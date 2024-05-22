@@ -3,6 +3,10 @@
 This script is a simple tool for launching Distributed Denial of Service (DDoS) attacks for educational and testing purposes only. Please use it responsibly and legally.
 
 ## Usage
+0.run this tools at
+```
+cloudshell or replit or codespace
+```
 
 1. Clone the repository:
 
