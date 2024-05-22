@@ -29,7 +29,6 @@ termux ✖️
     cd DDoSv2
     ```
 
-
 3. Install the iaohttp:
 
     ```bash
@@ -42,7 +41,7 @@ termux ✖️
     python Dosv2.py
     ```
 
-4. Enter the URL of the target website when prompted.
+5. Enter the URL of the target website when prompted.
 
 ## Attention
 
