@@ -2,6 +2,15 @@
   <img src="https://i.imgur.com/w4lzlhE.jpeg" alt="Mr.Azure Whisper">
 </p>
 
+<p align="center">
+  <a href="https://facebook.com/your-facebook-page" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" alt="Facebook" width="50" height="50">
+  </a>
+  <a href="https://t.me/your-telegram-page" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="Telegram" width="50" height="50">
+  </a>
+</p>
+
 # DDoS Attack Script
 
 This script is a simple tool for launching Distributed Denial of Service (DDoS) attacks for educational and testing purposes only. Please use it responsibly and legally.
