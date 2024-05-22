@@ -2,20 +2,23 @@
 
 This script is a simple tool for launching Distributed Denial of Service (DDoS) attacks for educational and testing purposes only. Please use it responsibly and legally.
 
-## if you run this tools use this terminal
+## If you run this tool, use this terminal:
 
-  cloudshell or replit or codespace
+- cloudshell
+- replit
+- codespace
 
-## tested
-cloudshell✔️
-codespace✔️
-replit✔️
+## Tested on:
 
-## Not work at
+- cloudshell ✔️
+- codespace ✔️
+- replit ✔️
 
-termux ✖️
+## Not working on:
 
-## Usage
+- termux ❌
+
+## Usage:
 
 1. Clone the repository:
 
@@ -23,12 +26,13 @@ termux ✖️
     git clone https://github.com/joshuapostol/DDoSv2/
     ```
 
-2Install cd DDoSv2:
-    
+2. Navigate to the directory:
+
     ```bash
     cd DDoSv2
     ```
-3.Install the iaohttp:
+
+3. Install aiohttp:
 
     ```bash
     python3 -m pip install aiohttp
@@ -42,7 +46,7 @@ termux ✖️
 
 5. Enter the URL of the target website when prompted.
 
-## Attention
+## Attention:
 
 **Please Note:**
 - This script is for educational and testing purposes only.
