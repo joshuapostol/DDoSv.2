@@ -5,7 +5,9 @@ This script is a simple tool for launching Distributed Denial of Service (DDoS) 
 ## If you run this tool, use this terminal:
 
 - https://replit.com/
+
 - https://shell.cloud.google.com/?hl=en_US&fromcloudshell=true&show=terminal&authuser=0
+
 - codespace
 
 ## Tested on:
