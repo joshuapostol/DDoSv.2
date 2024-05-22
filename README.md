@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://i.imgur.com/w4lzlhE.jpeg" alt="Mr.Azure Whisper">
+</p>
+
 # DDoS Attack Script
 
 This script is a simple tool for launching Distributed Denial of Service (DDoS) attacks for educational and testing purposes only. Please use it responsibly and legally.
