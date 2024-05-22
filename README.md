@@ -3,10 +3,10 @@
 </p>
 
 <p align="center">
-  <a href="https://facebook.com/your-facebook-page" target="_blank">
+  <a href="https://www.facebook.com/profile.php?id=61558380189286" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" alt="Facebook" width="50" height="50">
   </a>
-  <a href="https://t.me/your-telegram-page" target="_blank">
+  <a href="https://t.me/+5ADKCuPGJfM2Mjk1" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="Telegram" width="50" height="50">
   </a>
 </p>
