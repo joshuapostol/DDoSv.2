@@ -24,12 +24,11 @@ termux ✖️
     ```
 
 2Install cd DDoSv2:
-
+    
     ```bash
     cd DDoSv2
     ```
-
-.Install the iaohttp:
+3.Install the iaohttp:
 
     ```bash
     python3 -m pip install aiohttp
