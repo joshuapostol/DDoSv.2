@@ -19,8 +19,8 @@ print("""
  ░       ░                          
                             Version 2.0
 \033[0m
-\033[31mCreated by Joshua Apostol\n\033[0m
-\033[31mPlease do not attack gov or edu website thankyou!!!\033[0m
+\033[31mTINIDOR NI CHURCHILL\n\033[0m
+\033[31mPleaseattack gov or edu website thankyou!!!\033[0m
 """)
 
 password_module = importlib.import_module('password')
