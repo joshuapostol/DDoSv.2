@@ -23,18 +23,17 @@ termux ✖️
     git clone https://github.com/joshuapostol/DDoSv2/
     ```
 
-2.Install the iaohttp:
-
-    ```bash
-    python3 -m pip install aiohttp
-    ```
-
-
-3. Install cd DDoSv2:
+2Install cd DDoSv2:
 
     ```bash
     cd DDoSv2
     ```
+
+.Install the iaohttp:
+
+    ```bash
+    python3 -m pip install aiohttp
+    ```3. 
 
 4. Run the script:
 
