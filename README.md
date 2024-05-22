@@ -27,7 +27,6 @@ termux ✖️
 
     ```bash
     cd DDoSv2
-    ```
 
 3. Install the iaohttp:
 
