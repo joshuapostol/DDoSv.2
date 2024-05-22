@@ -4,8 +4,8 @@ This script is a simple tool for launching Distributed Denial of Service (DDoS) 
 
 ## Usage
 
-0.run this tools at
-  ```run using this terminal
+0.if you run this too this terminal
+  ```bash
   cloudshell or replit or codespace
   ```
 
