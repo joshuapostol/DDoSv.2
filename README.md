@@ -2,6 +2,9 @@
   <img src="https://i.imgur.com/w4lzlhE.jpeg" alt="Mr.Azure Whisper">
 </p>
 
+## social media
+join the tele if you wan't for more updates...
+
 <p align="center">
   <a href="https://www.facebook.com/profile.php?id=61558380189286" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" alt="Facebook" width="50" height="50">
