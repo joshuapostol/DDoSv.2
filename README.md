@@ -26,10 +26,10 @@ This script is a simple tool for launching Distributed Denial of Service (DDoS) 
     git clone https://github.com/joshuapostol/DDoSv2/
     ```
 
-2. Navigate to the directory:
+2. Install aiohttp:
 
     ```bash
-    cd DDoSv2
+    python3 -m pip install aiohttp
     ```
 
 3. Install aiohttp:
