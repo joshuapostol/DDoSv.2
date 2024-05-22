@@ -6,6 +6,15 @@ This script is a simple tool for launching Distributed Denial of Service (DDoS) 
 
   cloudshell or replit or codespace
 
+## tested
+cloudshell✔️
+codespace✔️
+replit✔️
+
+## Not work at
+
+termux ✖️
+
 ## Usage
 
 1. Clone the repository:
