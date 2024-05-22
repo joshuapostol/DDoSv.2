@@ -32,7 +32,7 @@ termux ✖️
 
     ```bash
     python3 -m pip install aiohttp
-    ```3. 
+    ```
 
 4. Run the script:
 
