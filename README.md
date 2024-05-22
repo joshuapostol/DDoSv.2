@@ -7,19 +7,19 @@ This script is a simple tool for launching Distributed Denial of Service (DDoS) 
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/ddos-attack-script.git
+    git clone https://github.com/joshuapostol/DDoSv2/
     ```
 
-2. Install the dependencies:
+2. Install the iaohttp:
 
     ```bash
-    pip install -r requirements.txt
+    python3 -m pip install aiohttp
     ```
 
 3. Run the script:
 
     ```bash
-    python main.py
+    python Dosv2.py
     ```
 
 4. Enter the URL of the target website when prompted.
