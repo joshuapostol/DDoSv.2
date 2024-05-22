@@ -23,10 +23,12 @@ termux ✖️
     git clone https://github.com/joshuapostol/DDoSv2/
     ```
 
-2.install this
+2. Install cd DDoSv2:
 
     ```bash
     cd DDoSv2
+    ```
+
 
 3. Install the iaohttp:
 
