@@ -32,10 +32,10 @@ This script is a simple tool for launching Distributed Denial of Service (DDoS) 
     python3 -m pip install aiohttp
     ```
 
-3. Install aiohttp:
+3. Navigate to the directory:
 
     ```bash
-    python3 -m pip install aiohttp
+    cd DDoSv2
     ```
 
 4. Run the script:
