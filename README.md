@@ -35,7 +35,7 @@ join the tele if you wan't for more updates...
 Welcome to my project! Click the folder below to explore its contents.
 
 <details>
-  <summary>OTHER PROJECT</summary>
+  <summary>📂OTHER PROJECT</summary>
 
   - [DDOS V1](https://github.com/joshuapostol/DDoS)
 </details>
