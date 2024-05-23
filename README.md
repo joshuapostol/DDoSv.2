@@ -4,7 +4,7 @@
 
 ## PASSWORD
 <div align=center> 
- {PASSWORD FOR DDoS tools}<br>
+ {"PASSWORD FOR DDoS tools"}<br>
 > Password: joshua094<br>
 </div>
 
