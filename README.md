@@ -6,6 +6,7 @@
 <div align=center> 
 > PASSWORD FOR DDoS tools<br>
 > Password: joshua094<br>
+</div>
 
 # social media
 join the tele if you wan't for more updates...
