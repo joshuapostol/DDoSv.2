@@ -41,7 +41,7 @@ This script is a simple tool for launching Distributed Denial of Service (DDoS) 
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/joshuapostol/DDoSv2/
+    git clone https://github.com/joshuapostol/DDoSv.2/
     ```
 
 2. Install aiohttp:
