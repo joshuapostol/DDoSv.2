@@ -2,6 +2,11 @@
   <img src="https://i.imgur.com/w4lzlhE.jpeg" alt="Mr.Azure Whisper">
 </p>
 
+## Accessing the Powerful DDoS Tool
+
+To obtain the password for accessing the powerful DDoS tool, please PM me.
+
+
 ## social media
 join the tele if you wan't for more updates...
 
