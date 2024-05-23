@@ -1,11 +1,11 @@
 ## Version History
 
-- **v2.0** (2024-05-22):
-  - Released on May 22, 2024.
-  - [Add any specific changes or features here]
-  
-- **v1.0.0** (2024-05-23):
+- **v1.0.0 "Basic DDoS"** (2024-05-23):
   - Initial release.
+
+- **v2.0.0 "Powerful DDoS"** (2024-05-22):
+  - Added powerful DDoS attack tool.
+  - Improved performance and stability.
 
 
 <p align="center">
