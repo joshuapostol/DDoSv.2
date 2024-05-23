@@ -1,3 +1,13 @@
+## Version History
+
+- **v2.0** (2024-05-22):
+  - Released on May 22, 2024.
+  - [Add any specific changes or features here]
+  
+- **v1.0.0** (2024-05-23):
+  - Initial release.
+
+
 <p align="center">
   <img src="https://i.imgur.com/w4lzlhE.jpeg" alt="Mr.Azure Whisper">
 </p>
