@@ -28,6 +28,15 @@ join the tele if you wan't for more updates...
   - Added powerful DDoS attack tool.
   - Improved performance and stability.
 
+ # My Project
+
+Welcome to my project! Click the folder below to explore its contents.
+
+<details>
+  <summary>📂 Folder Name</summary>
+
+  - [DDOS V1](https://github.com/joshuapostol/DDoS)
+</details>
 
 # DDoS Attack Script
 
