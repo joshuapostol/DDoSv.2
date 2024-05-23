@@ -53,7 +53,7 @@ This script is a simple tool for launching Distributed Denial of Service (DDoS) 
 3. Navigate to the directory:
 
     ```bash
-    cd DDoSv2
+    cd DDoSv.2
     ```
 
 4. Run the script:
