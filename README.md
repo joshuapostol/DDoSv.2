@@ -21,7 +21,7 @@ join the tele if you wan't for more updates...
 
 ## Version History
 
-- **v1.0.0 "Basic DDoS"** (2024-05-23):
+- **v1.0.0 "Basic DDoS"** (2024-05-19):
   - Initial release.
 
 - **v2.0.0 "Powerful DDoS"** (2024-05-22):
