@@ -6,18 +6,18 @@
 
 To obtain the password for accessing the powerful DDoS tool, please PM me.
 
-
-## social media
+# social media
 join the tele if you wan't for more updates...
 
 <p align="center">
-  <a href="https://www.facebook.com/profile.php?id=61558380189286" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" alt="Facebook" width="50" height="50">
+  <a href="https://www.facebook.com/profile.php?id=61558380189286">
+    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
   </a>
-  <a href="https://t.me/+5ADKCuPGJfM2Mjk1" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="Telegram" width="50" height="50">
+  <a href="https://t.me/+5ADKCuPGJfM2Mjk1">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
   </a>
 </p>
+
 
 ## Version History
 
@@ -33,7 +33,7 @@ join the tele if you wan't for more updates...
 Welcome to my project! Click the folder below to explore its contents.
 
 <details>
-  <summary>📂 Folder Name</summary>
+  <summary>OTHER PROJECT</summary>
 
   - [DDOS V1](https://github.com/joshuapostol/DDoS)
 </details>
