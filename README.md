@@ -1,13 +1,3 @@
-## Version History
-
-- **v1.0.0 "Basic DDoS"** (2024-05-23):
-  - Initial release.
-
-- **v2.0.0 "Powerful DDoS"** (2024-05-22):
-  - Added powerful DDoS attack tool.
-  - Improved performance and stability.
-
-
 <p align="center">
   <img src="https://i.imgur.com/w4lzlhE.jpeg" alt="Mr.Azure Whisper">
 </p>
@@ -23,6 +13,16 @@ join the tele if you wan't for more updates...
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="Telegram" width="50" height="50">
   </a>
 </p>
+
+## Version History
+
+- **v1.0.0 "Basic DDoS"** (2024-05-23):
+  - Initial release.
+
+- **v2.0.0 "Powerful DDoS"** (2024-05-22):
+  - Added powerful DDoS attack tool.
+  - Improved performance and stability.
+
 
 # DDoS Attack Script
 
