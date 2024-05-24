@@ -126,7 +126,7 @@ print("""
  ░ ░  ░  ░ ░  ░ ░ ░ ░ ▒  ░  ░  ░  
    ░       ░        ░ ░        ░  
  ░       ░                          
-                            Version 2.0
+                            Version 2.1
 \033[0m
 \033[31mMade by Joshua Apostol\n\033[0m
 \033[31mPlease do not attack gov or edu website thankyou!!!\033[0m
